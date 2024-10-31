@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QUIPOSTE Orders Tracking for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-21 09:26+0000\n"
+"PO-Revision-Date: 2023-02-03 12:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italiano\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: quiposte-orders-tracking-for-woocommerce"
+
+#: includes/class-used.php:276
+msgid "Add Shipping"
+msgstr "Aggiungi Spedizione"
+
+#. Description of the plugin
+msgid ""
+"Allows tracking of the shipment of woocommerce orders and integration with "
+"quiposte.com"
+msgstr ""
+"Consente il tracciamento della spedizione degli ordini woocommerce e "
+"l'integrazione con quiposte.com"
+
+#. URI of the plugin
+msgid "https://www.quiposte.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid ""
+"https://www.quiposte.com/plugins/woocommerce/quiposte-orders-tracking-for-"
+"woocommerce"
+msgstr ""
+
+#: includes/edit-tracking-all.php:12 includes/edit-tracking-item.php:7
+msgid "Item"
+msgstr "Articolo"
+
+#: includes/class-used.php:286
+msgid "Item Tracking"
+msgstr "Tracciamento degli articoli"
+
+#: includes/class-used.php:279
+msgid "Order Tracking"
+msgstr "Tracciamento dell'ordine"
+
+#. Author of the plugin
+msgid "Quiposte"
+msgstr ""
+
+#. Name of the plugin
+msgid "QUIPOSTE Orders Tracking for WooCommerce"
+msgstr "Monitoraggio degli ordini QUIPOSTE per WooCommerce"
+
+#: includes/edit-tracking-all.php:42
+msgid "Save"
+msgstr "Salva"
+
+#: includes/class-used.php:232
+msgid "Shipment Tracking"
+msgstr "Spedizione"
+
+#: includes/class-used.php:276
+msgid "Shipping"
+msgstr "Spedizione"
+
+#: includes/edit-tracking-all.php:13 includes/edit-tracking-item.php:8
+msgid "Tracking"
+msgstr "Monitoraggio"
+
+#: includes/class-used.php:265
+msgid "Tracking Number"
+msgstr "Numero di inseguimento"
+
+#: includes/class-used.php:274
+msgid "You can add and edit shipments here ..."
+msgstr "Puoi aggiungere e modificare le spedizioni qui..."

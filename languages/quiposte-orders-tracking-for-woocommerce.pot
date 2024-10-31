@@ -1,0 +1,81 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QUIPOSTE Orders Tracking for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-03 12:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: quiposte-orders-tracking-for-woocommerce"
+
+#: includes/class-used.php:276
+msgid "Add Shipping"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Allows tracking of the shipment of woocommerce orders and integration with "
+"quiposte.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.quiposte.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid ""
+"https://www.quiposte.com/plugins/woocommerce/quiposte-orders-tracking-for-"
+"woocommerce"
+msgstr ""
+
+#: includes/edit-tracking-all.php:12 includes/edit-tracking-item.php:7
+msgid "Item"
+msgstr ""
+
+#: includes/class-used.php:286
+msgid "Item Tracking"
+msgstr ""
+
+#: includes/class-used.php:279
+msgid "Order Tracking"
+msgstr ""
+
+#. Author of the plugin
+msgid "Quiposte"
+msgstr ""
+
+#. Name of the plugin
+msgid "QUIPOSTE Orders Tracking for WooCommerce"
+msgstr ""
+
+#: includes/edit-tracking-all.php:42
+msgid "Save"
+msgstr ""
+
+#: includes/class-used.php:232
+msgid "Shipment Tracking"
+msgstr ""
+
+#: includes/class-used.php:276
+msgid "Shipping"
+msgstr ""
+
+#: includes/edit-tracking-all.php:13 includes/edit-tracking-item.php:8
+msgid "Tracking"
+msgstr ""
+
+#: includes/class-used.php:265
+msgid "Tracking Number"
+msgstr ""
+
+#: includes/class-used.php:274
+msgid "You can add and edit shipments here ..."
+msgstr ""
